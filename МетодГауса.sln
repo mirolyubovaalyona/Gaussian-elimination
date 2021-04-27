@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "МетодГауса", "МетодГауса.pyproj", "{764E55FB-4852-4DF2-830E-DAEF389A6D5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{764E55FB-4852-4DF2-830E-DAEF389A6D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764E55FB-4852-4DF2-830E-DAEF389A6D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9122C69F-8B02-408D-BD8D-4F3E7AC553BE}
+	EndGlobalSection
+EndGlobal
